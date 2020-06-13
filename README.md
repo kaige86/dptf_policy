@@ -1,9 +1,20 @@
 # dptf_policy
 set dptf policy manually
 
-required: cmake
+## about
+dptf - Dynamic Platform and Thermal Framework  
+
+A auto adaptive application was developed for chromimum os and Ubuntu Linux:
+
+https://github.com/intel/dptf
+
+But this App cannot work on my computer, which only support passive1 policy, and on my computer use passive2 policy, so I write this simple dptf_policy to apply DPTF policy manually.
 
 ## build
+
+- required
+
+cmake
 
 - download
 
